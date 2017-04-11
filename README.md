@@ -3,14 +3,10 @@
 [CodeMotion Amsterdam](http://amsterdam2017.codemotionworld.com ) proposes 6 tracks in parallel, plus codelabs.
 
 You have more than one opportunities to learn more about Cisco APIs:
-- [May 16th, 09:00-09:30](): KeyNote.
-- [May 16th, 10:30-11:10](): Voice Machines talk.
-- [May 16th, 11:30-12:10](): Bots talk.
-- [May 17th, ](): 
-
-And don’t miss the 20' learning labs:
-- [May 16th, from 10:30 till 18:00](http://amsterdam2017.codemotionworld.com/schedules/labs/), 
-learn to build ChatBots and add Video or SMS capabilities to your existing apps with Cisco Spark and Tropo APIs.
+- [May 16th, 09:00-09:15](http://amsterdam2017.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=5855): The power of connections (KeyNote).
+- [May 16th, 11:30-12:10](http://amsterdam2017.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=5838): From IoT to Human Interactions: Voice and Messages to the rescue.
+- [May 16th, 12:30-13:10](http://amsterdam2017.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=5839): Building advanced ChatBots.
+- [May 16th, from 10:30 till 18:00](http://amsterdam2017.codemotionworld.com/schedules/labs/): 20' instructor-led codelabs. Learn to build ChatBots, add Video or SMS capabilities to your existing apps with Cisco Spark and Tropo APIs.
 Access to the labs is free, provided by [Cisco DevNet](http://developer.cisco.com).
 
 <!-- To discover what's going on in real-time
@@ -21,8 +17,7 @@ Access to the labs is free, provided by [Cisco DevNet](http://developer.cisco.co
 
 # <a id="code-labs"></a>Thanks for joining the DevNet CodeLabs 
 
-__Pick a lab in the list below to experience what is takes to [create a ChatBot](#lab-botl-ngrok), or to add [Voice and SMS interactions](#lab-voice-machine) to your existing apps
-Note that the labs below can be taken in any order as they are independant one from another__
+__Pick a lab in the list below to experience how to [create a ChatBot](#lab-botl-ngrok), or add [Voice and SMS interactions](#lab-voice-machine) to existing apps. Note that the labs below can be taken in any order as they are independant one from another.__
 
 
 ## From ZERO to Enterprise ChatBots with Cisco Spark APIs
